@@ -1,0 +1,2 @@
+<p>This is vi comment and the use the Esc+:wq</p>
+<p>wq means write and quik</p>
